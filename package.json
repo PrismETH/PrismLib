@@ -1,0 +1,18 @@
+{
+    "name": "ethereum-prism-lib",
+    "version": "0.0.2",
+    "description": "JS library for Prism SmartContract",
+    "author": "Prism Developer",
+    "license": "ISC",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --timeout 180000"
+    },
+    "dependencies": {
+        "ethers": "^4.0.37"
+    },
+    "devDependencies": {
+        "mocha": "^6.1.4",
+        "web3": "^1.2.1"
+    }
+}
