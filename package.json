@@ -12,7 +12,7 @@
         "ethers": "^4.0.37"
     },
     "devDependencies": {
-        "mocha": "^6.1.4",
+        "mocha": "^10.2.0",
         "web3": "^1.2.1"
     }
 }
